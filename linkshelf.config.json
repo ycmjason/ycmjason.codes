@@ -1,14 +1,26 @@
 {
-  "profilePicture": "https://d1fdloi71mui9q.cloudfront.net/TP7ObtX6QBmNDKjEjoxj_whjUSzbxEok1yz6K",
+  "profilePicture": "https://pbs.twimg.com/profile_images/1380814586811711492/INwiwIpB_400x400.jpg",
   "name": "YCM Jason",
   "links": [
+    {
+      "title": "Youtube",
+      "url": "https://www.youtube.com/channel/UC5dnaJZdEShWfZOwSCXNGcA"
+    },
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/ycmjason"
+    },
     {
       "title": "Github",
       "url": "https://github.com/ycmjason"
     },
     {
-      "title": "Youtube",
-      "url": "https://www.youtube.com/channel/UC5dnaJZdEShWfZOwSCXNGcA"
+      "title": "dev.to",
+      "url": "https://dev.to/ycmjason"
+    },
+    {
+      "title": "Instagram",
+      "url": "https://www.instagram.com/ycmjasoncodes"
     }
   ]
 }
