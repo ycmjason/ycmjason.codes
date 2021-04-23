@@ -3,10 +3,6 @@
   "name": "YCM Jason",
   "links": [
     {
-      "title": "Patreon",
-      "url": "https://www.patreon.com/ycmjason"
-    },
-    {
       "title": "Youtube",
       "url": "https://www.youtube.com/c/ycmjasoncodes"
     },
@@ -25,6 +21,10 @@
     {
       "title": "Instagram",
       "url": "https://www.instagram.com/ycmjasoncodes"
+    },
+    {
+      "title": "Patreon",
+      "url": "https://www.patreon.com/ycmjason"
     }
   ]
 }
